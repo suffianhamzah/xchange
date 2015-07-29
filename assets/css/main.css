@@ -162,3 +162,19 @@ div.play-button { height: 72px; width: 72px; left: 50%; top: 50%; margin-left: -
     color:white;
     font-size:1.5em;
 }
+
+.test {
+     position: relative;
+}
+
+.tag {
+   float: left;
+   position: absolute;
+   left: 120px;
+   top: 0px;
+   z-index: 1000;
+   background-color: #92AD40;
+   padding: 5px;
+   color: #FFFFFF;
+   font-weight: bold;
+}
