@@ -53,7 +53,7 @@ p {
 
 /* Links */
 a {
-    color: #2E0927;
+    color: #4d3069;
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -89,7 +89,7 @@ a:after {
 }
 
 .navbar-default {
-	background-color: #2E0927;
+	background-color: #4d3069;
 	border-color: transparent;
 }
 
@@ -116,14 +116,14 @@ a:after {
 
 i {
 	margin: 8px;
-	color: #2E0927; 
+	color: #4d3069; 
 }
 
 
 /* HeaderWrap */
 #headerwrap {
-	/* background: url(../img/bg01.jpg) #2E0927 no-repeat center top; */
-	background-color: #2E0927;
+	/* background: url(../img/bg01.jpg) #4d3069 no-repeat center top; */
+	background-color: #4d3069;
 	margin-top: -20px;
 	padding-top:200px;
 	background-attachment: relative;
